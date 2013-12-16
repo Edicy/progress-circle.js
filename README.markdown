@@ -1,5 +1,7 @@
 Super simple JavaScript library that draws good looking SVG progress circles. Requires jQuery.
 
+![](http://edicy.github.io/progress-circle.js/progress-circles.png)
+
 ## Usage
 
 Simplest thing that works:
